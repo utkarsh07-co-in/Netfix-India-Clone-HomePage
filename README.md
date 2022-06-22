@@ -1,2 +1,3 @@
-# Netfix India Clone HomePage
- This is Netflix India Clone Home Page Clone
+#This is a static clone of landing page of Netflix
+
+https://netflix-clone-static-by-ash.herokuapp.com/
